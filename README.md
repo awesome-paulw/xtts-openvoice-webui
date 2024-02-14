@@ -1,2 +1,2 @@
 # xtts-openvoice-webui
-This project is a gradio project for AI dubbing creation. It is developed based on the fine-tune function for XTTS-v2 and openvoice zero shot voice-conversion, enabling high quality customised training and handy SRT-in-Audio-out key features for AI dubbing.
+Xtts-openvoice-webui is a web interface that allows you to fine-tune your XTTS model based on your own needs, using text and SRT to generate high quality dubbing materials, and convert your voice feature based on a 15s audio clip in a simple click.  It is inspired by https://github.com/coqui-ai/TTS and https://github.com/myshell-ai/OpenVoice and I am strived to make most of them.
